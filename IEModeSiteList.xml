@@ -1,0 +1,19 @@
+<site-list version="1">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>10.0.14357.1004</version>
+    <date-created>02/23/2020 14:28:42</date-created>
+  </created-by>
+  <site url="msappproxy.net">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="blend2.cariboucoffee.corp">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="icontrol.cariboucoffee.corp">
+    <compat-mode>IE7Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>
