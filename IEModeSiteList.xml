@@ -12,6 +12,10 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="blend2test.cariboucoffee.corp">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+  </site>
   <site url="icontrol.cariboucoffee.corp">
     <compat-mode>IE7Enterprise</compat-mode>
     <open-in>IE11</open-in>
