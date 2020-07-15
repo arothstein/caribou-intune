@@ -1,10 +1,10 @@
-<site-list version="1">
+<site-list version="3">
   <created-by>
     <tool>EMIESiteListManager</tool>
-    <version>10.0.14357.1004</version>
-    <date-created>02/23/2020 14:28:42</date-created>
+    <version>12.0.0.0</version>
+    <date-created>07/15/2020 17:01:04</date-created>
   </created-by>
-  <site url="classicapps-caribou.msappproxy.net">
+  <site url="msappproxy.net">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
@@ -12,15 +12,27 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="blendtest2.cariboucoffee.corp">
-  <compat-mode>Default</compat-mode>
-  <open-in>IE11</open-in>
-  </site>
   <site url="icontrol.cariboucoffee.corp">
     <compat-mode>IE7Enterprise</compat-mode>
     <open-in>IE11</open-in>
   </site>
   <site url="secure.commtrade.net">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="sql-blend.cariboucoffee.corp">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="sql-blendtest.cariboucoffee.corp">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="logility.cariboucoffee.corp">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="logility-dev.cariboucoffee.corp">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
