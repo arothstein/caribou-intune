@@ -16,6 +16,18 @@
     <compat-mode>IE7Enterprise</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="logility.cariboucoffee.corp">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="logility-dev.cariboucoffee.corp">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="scbcapp36.cariboucoffee.corp">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
   <site url="secure.commtrade.net">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
@@ -25,14 +37,6 @@
     <open-in>IE11</open-in>
   </site>
   <site url="sql-blendtest.cariboucoffee.corp">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="logility.cariboucoffee.corp">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="logility-dev.cariboucoffee.corp">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
