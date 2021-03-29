@@ -28,10 +28,6 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="secure.commtrade.net">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
   <site url="sql-blend.cariboucoffee.corp">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
