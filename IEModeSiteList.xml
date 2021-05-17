@@ -36,4 +36,8 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="transactionmanager.truecommerce.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
 </site-list>
